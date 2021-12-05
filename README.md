@@ -19,7 +19,7 @@
 </a>
 
 - :office: &nbsp;I'm currently working at istanbul
-- :seedling: &nbsp;I’m currently learning **Go** and **Node.js**
+- :seedling: &nbsp;I’m currently learning **Node.js**
 - :speech_balloon: &nbsp;I like to talk about **New technologies** and **Public apis**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
