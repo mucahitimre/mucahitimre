@@ -14,6 +14,21 @@
   </a>
 </p>
 
+```csharp
+var me = Mico.GetInstance();
+Learn:
+var isLearned = me
+  .Learn(new Idea("Node.js"))
+  .Make(e => e.StartWith(w => w.Curiosity().Research().Working().Competence().Coffee()))
+  .Check();
+if (!isLearned)
+{
+  goto Learn;
+}
+
+// keep thinking..
+```
+
 <a href="#mucahitimre-title">
   <img src="https://github-readme-stats.vercel.app/api?username=mucahitimre&show_icons=true&theme=radical" alt="mucahitimre" align="right" />
 </a>
