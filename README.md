@@ -1,7 +1,7 @@
 <h1 align="left" id="mucahitimre-title">:wave: Hello there! I'm Mücahit</h1>
 <p align="left">
   <a href="https://github.com/mucahitimre/mucahitimre">
-    <img src="https://komarev.com/ghpvc/?username=mucahitimre" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=mucahitimre&style=flat-square" alt="page views" />
   </a>
   <a href="https://stackoverflow.com/users/7523096">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7523096?color=orange&label=reputation&logo=stackoverflow">
