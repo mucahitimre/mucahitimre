@@ -1,6 +1,6 @@
 <h1 align="left" id="mucahitimre-title">:wave: Hello there! I'm Mücahit</h1>
 <p align="left">
-  <a href="https://github.com/mucahitimre/mucahitimre">
+  <a href="https://github.com/mucahitimre">
     <img src="https://komarev.com/ghpvc/?username=mucahitimre&style=flat-square" alt="page views" />
   </a>
   <a href="https://stackoverflow.com/users/7523096">
