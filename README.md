@@ -14,6 +14,12 @@
   </a>
 </p>
 
+
+- :office: &nbsp;I'm currently working at istanbul
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+
 ```csharp
 var me = Mico.GetInstance();
 Learn:
@@ -28,16 +34,6 @@ if (!isLearned)
 
 // keep thinking..
 ```
-
-<a href="#mucahitimre-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=mucahitimre&show_icons=true&theme=radical" alt="mucahitimre" align="right" />
-</a>
-
-- :office: &nbsp;I'm currently working at istanbul
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-
-<br>
 
 <!-- links -->
 
