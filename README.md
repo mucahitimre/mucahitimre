@@ -24,7 +24,7 @@
 var me = Mico.GetInstance();
 Learn:
 var isLearned = me
-  .Learn(new Idea("Node.js"))
+  .Learn(new Idea("Go"))
   .Make(e => e.StartWith(w => w.Curiosity().Research().Working().Competence().Coffee()))
   .Check();
 if (!isLearned)
