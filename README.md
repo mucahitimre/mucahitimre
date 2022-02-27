@@ -1,4 +1,4 @@
-<h1 align="left" id="mucahitimre-title">:wave: Hello there! I'm Mücahit</h1>
+<h1 align="left" id="mucahitimre-title">Hi, how you doin?</h1>
 <p align="left">
   <a href="https://github.com/mucahitimre">
     <img src="https://komarev.com/ghpvc/?username=mucahitimre&style=flat-square" alt="page views" />
@@ -14,8 +14,6 @@
   </a>
 </p>
 
-
-- :office: &nbsp;I'm currently working at istanbul
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
