@@ -3,7 +3,7 @@
   <a href="https://github.com/mucahitimre">
     <img src="https://komarev.com/ghpvc/?username=mucahitimre&style=flat-square" alt="page views" />
   </a>
-  <a href="https://stackoverflow.com/users/7523096">
+  <a href="https://stackoverflow.com/users/7523096/mico">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7523096?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/mucahitimre?tab=followers">
