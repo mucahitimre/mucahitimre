@@ -22,7 +22,7 @@
 var me = Mico.GetInstance();
 Learn:
 var isLearned = me
-  .Learn(new Idea("Go"))
+  .Learn(new Idea())
   .Make(e => e.StartWith(w => w.Curiosity().Research().Working().Competence().Coffee()))
   .Check();
 if (!isLearned)
