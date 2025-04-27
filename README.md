@@ -17,22 +17,6 @@
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-
-```csharp
-var me = Mico.GetInstance();
-Learn:
-var isLearned = me
-  .Learn(new Idea())
-  .Make(e => e.StartWith(w => w.Curiosity().Research().Working().Competence().Coffee()))
-  .Check();
-if (!isLearned)
-{
-  goto Learn;
-}
-
-// keep thinking..
-```
-
 <!-- links -->
 
 [issues page]: https://github.com/mucahitimre/mucahitimre/issues "mucahitimre/issues"
