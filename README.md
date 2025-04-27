@@ -14,6 +14,11 @@
   </a>
 </p>
 
+Senior Software Developer/Architect
+
+Building clean, scalable systems.  
+Focused on backend development, system design, and performance optimization.
+
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -21,20 +26,3 @@
 
 [issues page]: https://github.com/mucahitimre/mucahitimre/issues "mucahitimre/issues"
 [linkedin]: https://www.linkedin.com/in/mucahit-imre/ "Mücahit imre LinkedIn"
-
-
-
-<!--
-**mucahitimre/mucahitimre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
